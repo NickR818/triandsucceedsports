@@ -1,2 +1,2 @@
 # triandsucceedsports
-Simple example of a website designed using basics of CSS
+Sample website made using HTML5 and CSS
